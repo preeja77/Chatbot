@@ -1,5 +1,6 @@
 # Chatbot
 
-Technologies Used: HTML, CSS, Javascript
+**Technologies Used:** HTML, CSS, Javascript
 
-In this digital era, chabots emerged as a dynamic intermediaries in bridging the gap between human and machines. It provided value by giving results when human are unable to work in that period providing us 24/7. 
+In this digital era, chatbots emerged as dynamic intermediaries in bridging the gap between humans and machines. It provided value by giving results when humans are unable to work in that period providing us 24/7. 
+
